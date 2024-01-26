@@ -1,0 +1,20 @@
+name = "Mandy"
+age = 22
+message = "Hello, %s. You are %d years old." % (name, age)
+print(message)
+Name="Mandy"
+Age=22
+Message ="Hello,{}. You are {} years old.".format(Name,Age)
+print(Message)   
+MESSAGE=f"Good morning,{name}"
+print(MESSAGE)
+text="hello\nworld"
+print(text)
+positive_integer=10
+negative_integer=-10
+positive_float=3.1415926535
+rounded_number=round(3.15926535,2)
+print(rounded_number)
+import math
+square_roots=math.sqrt(16)
+print(square_roots)
