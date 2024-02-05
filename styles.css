@@ -1,0 +1,19 @@
+#breadcrumbs ul {
+    list-style: none;
+padding: 10px;
+background-color: aliceblue;
+
+}
+#breadcrumbs ul li{
+    display: inline;
+    margin-right: 0px;
+}
+.product-title{
+    text-align: center;
+    color: blue;
+}
+.product-image img{
+    display: block;
+    margin: auto;
+    max-zoom:    
+}
